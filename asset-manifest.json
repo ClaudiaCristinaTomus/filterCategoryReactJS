@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filterCategoryReactJS/static/css/main.935bd573.css",
+    "main.js": "/filterCategoryReactJS/static/js/main.c13435d2.js",
+    "index.html": "/filterCategoryReactJS/index.html",
+    "main.935bd573.css.map": "/filterCategoryReactJS/static/css/main.935bd573.css.map",
+    "main.c13435d2.js.map": "/filterCategoryReactJS/static/js/main.c13435d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.935bd573.css",
+    "static/js/main.c13435d2.js"
+  ]
+}
